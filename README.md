@@ -1,0 +1,4 @@
+makepro
+=======
+
+create qtcreater *.pro
